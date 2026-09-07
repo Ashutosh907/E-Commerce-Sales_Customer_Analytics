@@ -28,3 +28,9 @@ An end-to-end data analytics project exploring transaction patterns, customer be
 1. Download `analytics.pbix` from this repository.
 2. Open the file in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Explore the dashboard pages using the interactive filters and slicers.
+
+---
+
+---
+##markdown
+![Dashboard Overview](dashboard.png)
